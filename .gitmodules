@@ -1,0 +1,3 @@
+[submodule "AngularJwtAuth"]
+	path = AngularJwtAuth
+	url = https://github.com/AishwaryaIsha/Angular_UserRegistration_MeanStack.git
